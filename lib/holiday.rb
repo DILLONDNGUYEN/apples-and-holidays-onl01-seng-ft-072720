@@ -42,8 +42,8 @@ end
 #iterates through winter holidays adds a supply to each one
   
 def add_supply_to_winter_holidays(holiday_hash, supply)
-  
-
+  holiday_hash[:winter].each do |holiday, decorations|
+    decorations << supply
 end
 
 
