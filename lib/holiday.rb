@@ -52,7 +52,6 @@ end
 #adds a supply to memorial day
 #adds a different supply to memorial day
 
-
 def add_supply_to_memorial_day(holiday_hash, supply)
   
 end
