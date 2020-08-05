@@ -49,7 +49,7 @@ end
 
 # again, holiday_hash is the same as the ones above
 # add the second argument to the memorial day array
-#
+#adds a supply to memorial day
 #
 
 
