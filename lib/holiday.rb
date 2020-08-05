@@ -82,7 +82,7 @@ end
 #   Summer:
 #   Fourth Of July: Fireworks, BBQ
 # etc.
-#
+# should output the formatted list of holidays and their supplies
 
 def all_supplies_in_holidays(holiday_hash)
   holiday_hash.each do |season, holiday|
